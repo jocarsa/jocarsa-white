@@ -1,0 +1,2 @@
+# white
+Icons for applications
