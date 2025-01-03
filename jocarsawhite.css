@@ -49,5 +49,9 @@
   background: url('https://jocarsa.github.io/jocarsa-white/iconos/volver.svg');
   background-size:cover;
 }
+.jocarsa-icon-buscar {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/buscar.svg');
+  background-size:cover;
+}
 /* Add additional icons here */
 
