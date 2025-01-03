@@ -3,10 +3,12 @@
   width: 24px;
   height: 24px;
   fill: white;
+  
 }
 
 .jocarsa-icon-editar {
   background: url('https://jocarsa.github.io/jocarsa-white/iconos/editar.svg');
+  background-size:cover;
 }
 
 
