@@ -16,5 +16,23 @@
   background-size:cover;
 }
 
+.jocarsa-icon-eliminar {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/eliminar.svg');
+  background-size:cover;
+}
+.jocarsa-icon-documento {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/documento.svg');
+  background-size:cover;
+}
+
+.jocarsa-icon-cuadricula {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/cuadricula.svg');
+  background-size:cover;
+}
+
+.jocarsa-icon-lista {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/lista.svg');
+  background-size:cover;
+}
 /* Add additional icons here */
 
