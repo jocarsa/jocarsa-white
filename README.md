@@ -1,6 +1,6 @@
 # Jocarsa White Icons
 
-![Jocarsa White Logo](https://jocarsa.com/static/logo/jocarsa | black.svg)
+![Jocarsa White Logo]("https://jocarsa.com/static/logo/jocarsa | black.svg")
 
 A collection of white-themed SVG icons for your web projects. Easily integrate these icons using CSS classes to enhance your user interface with clean and scalable graphics.
 
