@@ -5,17 +5,10 @@
   fill: white;
 }
 
-.jocarsa-icon-bold {
-  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white"><path d="M6 4h8a4 4 0 0 1 0 8H8v4h6a4 4 0 0 1 0 8H6V4zm2 2v6h6a2 2 0 1 0 0-4H8zm0 8v6h6a2 2 0 1 0 0-4H8z"/></svg>') no-repeat center/contain;
+.jocarsa-icon-editar {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/editar.svg');
 }
 
-.jocarsa-icon-italic {
-  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white"><path d="M10 4h10v2h-4.58L9.42 18H14v2H4v-2h4.58L14.58 6H10V4z"/></svg>') no-repeat center/contain;
-}
-
-.jocarsa-icon-underline {
-  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white"><path d="M6 4h2v6a4 4 0 0 0 8 0V4h2v6a6 6 0 0 1-12 0V4zm2 14h8v2H8v-2z"/></svg>') no-repeat center/contain;
-}
 
 /* Add additional icons here */
 
