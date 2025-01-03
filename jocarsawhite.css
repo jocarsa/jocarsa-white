@@ -34,5 +34,10 @@
   background: url('https://jocarsa.github.io/jocarsa-white/iconos/lista.svg');
   background-size:cover;
 }
+
+.jocarsa-icon-salir {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/salir.svg');
+  background-size:cover;
+}
 /* Add additional icons here */
 
