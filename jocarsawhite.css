@@ -53,5 +53,9 @@
   background: url('https://jocarsa.github.io/jocarsa-white/iconos/buscar.svg');
   background-size:cover;
 }
+.jocarsa-icon-cerrarsesion {
+  background: url('https://jocarsa.github.io/jocarsa-white/iconos/cerrarsesion.svg');
+  background-size:cover;
+}
 /* Add additional icons here */
 
